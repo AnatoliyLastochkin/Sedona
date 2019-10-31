@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Anatolii Lastochkin](https://up.htmlacademy.ru/htmlcss/26/user/198238).
-* Наставник: `Неизвестно`.
+* Наставник: `DON Pedro`.
 
 ---
 
